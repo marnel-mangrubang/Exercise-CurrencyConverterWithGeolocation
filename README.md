@@ -55,7 +55,7 @@ Please add as many tests as you deem necessary.
 - How well is the code tested?
 - How accessible is the front end?
 
-Show us what you're good at! Please remember to send over your solution at least a couple hours before the start of your interview!
+Show us what you're good at! If possible, please put your solution on a github repo and send it to us at least a couple hours before the start of your interview!
 
 ## How to use the starter code
 ### Before developing
